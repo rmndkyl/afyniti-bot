@@ -1,5 +1,9 @@
 # Afyniti Bot
 
+🌐 **Website:** https://afyniti.xyz
+🔗 **Referral:** https://afyniti.xyz/?ref=29QMYGUX
+
+
 > Automated airdrop farming bot by **Layer Airdrop ID (LYID)**
 
 Automated bot for Afyniti XP social task platform — SIWE auth, ecosystem quests, daily check-in, and multi-wallet farming.
